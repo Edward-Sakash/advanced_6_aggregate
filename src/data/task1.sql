@@ -248,3 +248,5 @@ INSERT INTO webinar(name, teacher, visibility, starts_on, ends_on, audience) VAL
 	('Advanced Databases', 'Patricia Boulard', 'Public', '2008-06-20 17:01:44', '2008-03-06 08:44:04', 27),
 	('Advanced Python', 'Fabienne Martin', 'Private', '2018-07-05 07:06:14', '2018-03-05 02:30:56', 33),
 	('Introduction to Django', 'Fabienne Martin', 'Private', '2020-12-23 05:10:28', '2020-10-25 07:10:55', 42);
+
+
